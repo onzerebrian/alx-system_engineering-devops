@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # This script is displaying "Best school" 10 times
 # shellcheck
-for i in 0 1 2 3 4 5 6 7 8 9; 
-do
+for i in 0 1 2 3 4 5 6 7 8 9; do
 echo  Best School
 done
 
