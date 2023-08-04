@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Edit the 'hosts' file
+# Edit the hosts file
 # localhost to resolve to 127.0.0.2
 # facebook to resolve to 8.8.8.8
 
